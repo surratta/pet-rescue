@@ -1,0 +1,13 @@
+{
+  "name": "pet-rescue",
+  "version": "0.0.1",
+  "description": "render adoptable pet info",
+  "main": "",
+  "dependencies": {
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "surratta"
+}
